@@ -1,0 +1,7 @@
+[user]
+	name = Mike Bravo
+	email = mike@mikebravo.dev
+[core]
+	editor = nvim
+[init]
+	defaultBranch = master
